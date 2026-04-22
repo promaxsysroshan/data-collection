@@ -1,0 +1,87 @@
+# =========================
+
+# 📱 Flutter
+
+# =========================
+
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+
+# Flutter/Dart IDE files
+
+.idea/
+.vscode/
+*.iml
+
+# =========================
+
+# 🐍 Python / FastAPI
+
+# =========================
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+
+venv/
+env/
+.venv/
+
+# =========================
+
+# 🔐 Environment variables
+
+# =========================
+
+.env
+.env.*
+
+# =========================
+
+# 📁 Uploads / Media (VERY IMPORTANT)
+
+# =========================
+
+backend/uploads/
+uploads/
+*.mp3
+*.mp4
+*.wav
+*.avi
+*.mkv
+
+# =========================
+
+# 🗄️ Logs
+
+# =========================
+
+*.log
+logs/
+
+# =========================
+
+# 💻 OS files
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# ⚡ Misc
+
+# =========================
+
+*.tmp
+*.temp
+.cache/
